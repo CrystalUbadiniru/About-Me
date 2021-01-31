@@ -49,6 +49,14 @@
  <h3> Favorite Song: </h3>
  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Djf9es4rnXY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>>
+
+<h3> Favorite Movie </h3>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dcUOO4Itgmw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<h3>Favorite Show</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XkTP1QTRWDA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
      
   
   <div id= "website">
