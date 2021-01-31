@@ -23,7 +23,8 @@
   
   <div id= "Edu_cation">
   <h2> Education</h2>
- <p1> I graduated with a summa cum laude diploma, from John F Kenney High School in Silver Spring Maryland. I now attend university, aiming to graduate early in 2022 with a Bachelors in Science.</p1>
+ <p> I graduated with a summa cum laude diploma, from John F Kenney High School in Silver Spring Maryland. I now attend university, aiming to graduate early in 2022 with a Bachelors in Science.</p>
+  
   <div id= "work">
   <h2> Work Experience</h2>
     <ol> <li> Part Owner of a cosmetics company called Luxurious Beauty</li>
@@ -40,9 +41,15 @@
   
   <div id= "interests">
   <h2> General Interests</h2>
+  <p> My interests and hobbied include; art, beauty, and fashion. I love all types of art ranging from painings, drawings, to photography and music. As a girl, I love experimenting with beauty, different hair styles and different accessories. Further, I love building up my wardrobe with all kinds of diverse fashion pieces. </p>
   
   <div id= "favorites">
   <h2> Favorites</h2>
+ 
+ <h3> Favorite Song: </h3>
+ 
+ <iframe width="560" height= "315" src= "https://www.youtube.com/watch?v=Djf9es4rnXY" frameborder="0" allow="accelerometer; autoplay; encrypt-media; gyroscope; picture-in-picture;" allowfullscreen autoplay> </iframe>
+        
   
   <div id= "website">
   <h2> Favorite Websites</h2>
