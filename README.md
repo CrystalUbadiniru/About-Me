@@ -1,7 +1,7 @@
 # About Me
 <html>
 
-<head> Welcome! </head>
+<h1> Menu </h1>
 <li> <a href="#basic_info"> Basic Info </a></li> 
 <li> <a href="#edu_cation"> Education </a></li>
 <li> <a href="#work"> Work Experience </a></li> 
