@@ -2,6 +2,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title> Welcome!</title>
-  </head>
+<title> Welcome! </title>
+</head>
 </html>
