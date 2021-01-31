@@ -19,12 +19,12 @@
 
 <div id= "basic info">
   <h2> Basic Info</h2>
-  <p1> Hi, my name is Crystal Ubadiniru. I am a sophomore at St.Johns University studying IT with a business track.</p1>
-  
+  <p> Hi, my name is Crystal Ubadiniru. I am a sophomore at St.Johns University studying IT with a business track.</p>
+  </div>
   <div id= "Edu_cation">
   <h2> Education</h2>
  <p> I graduated with a summa cum laude diploma, from John F Kenney High School in Silver Spring Maryland. I now attend university, aiming to graduate early in 2022 with a Bachelors in Science.</p>
-  
+  </div>
   <div id= "work">
   <h2> Work Experience</h2>
     <ol> <li> Part Owner of a cosmetics company called Luxurious Beauty</li>
@@ -32,36 +32,44 @@
       <li> Desk Clerk for a sales group called Converged Network Services </li>
       
  </ol>
-      
+     </div> 
   <div id= "skills">
   <h2> Programmng skills</h2>
   <ol> <li> Java: I am moderately experienced with Javascript </li>
     <li> HTML: I am moderarely experienced with HTML </li>
   </ol>
+  </div>
   
   <div id= "interests">
   <h2> General Interests</h2>
   <p> My interests and hobbied include; art, beauty, and fashion. I love all types of art ranging from painings, drawings, to photography and music. As a girl, I love experimenting with beauty, different hair styles and different accessories. Further, I love building up my wardrobe with all kinds of diverse fashion pieces. </p>
+  </div>
   
   <div id= "favorites">
   <h2> Favorites</h2>
  
  <h3> Favorite Song: </h3>
  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Djf9es4rnXY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Djf9es4rnXY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h3> Favorite Movie </h3>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dcUOO4Itgmw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h3>Favorite Show</h3>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XkTP1QTRWDA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-     
+  </div>   
   
   <div id= "website">
   <h2> Favorite Websites</h2>
   
- <div id= "proj">
+ <ol>
+<li>  <a href="https://www.netflix.com/browse"> Netflix</a></li> Netflix is a website that streams thousands of tv shows, movies, films, and even Netflix Original content.</li>
+  <li>  <a href="https://www.hulu.com/hub/home"> Hulu </a></li>Hulu, in alike to Netflix, streams shows, movies and original content. However, Hulu does stream and release shows that are live on TV, whilst Netflix doesnt have that feature.</li>
+  </div>
+
+<div id= "proj">
   <h2> Projects</h2>
 </html>
