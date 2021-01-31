@@ -72,4 +72,8 @@
 
 <div id= "proj">
   <h3> Projects</h3>
+  
+  <ol>
+ <li> <a href="https://crystalubadiniru.github.io/milestone/" target="_blank"> Milestone 01 </a></li>
+  
 </html>
