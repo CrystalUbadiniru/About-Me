@@ -1,7 +1,7 @@
 # About Me
 <html>
 
-<h1> Menu </h1>
+<h2> Menu </h2>
 <li> <a href="#basic_info"> Basic Info </a></li> 
 <li> <a href="#edu_cation"> Education </a></li>
 <li> <a href="#work"> Work Experience </a></li> 
@@ -18,15 +18,15 @@
 
 
 <div id= "basic info">
-  <h2> Basic Info</h2>
+  <h3> Basic Info</h3>
   <p> Hi, my name is Crystal Ubadiniru. I am a sophomore at St.Johns University studying IT with a business track.</p>
   </div>
   <div id= "Edu_cation">
-  <h2> Education</h2>
+  <h3> Education</h3>
  <p> I graduated with a summa cum laude diploma, from John F Kenney High School in Silver Spring Maryland. I now attend university, aiming to graduate early in 2022 with a Bachelors in Science.</p>
   </div>
   <div id= "work">
-  <h2> Work Experience</h2>
+  <h3> Work Experience</h3>
     <ol> <li> Part Owner of a cosmetics company called Luxurious Beauty</li>
       <li> Part Owner of a marketing company called Ultimate Reach</li>
       <li> Desk Clerk for a sales group called Converged Network Services </li>
@@ -34,19 +34,19 @@
  </ol>
      </div> 
   <div id= "skills">
-  <h2> Programmng skills</h2>
+  <h3> Programmng skills</h3>
   <ol> <li> Java: I am moderately experienced with Javascript </li>
     <li> HTML: I am moderarely experienced with HTML </li>
   </ol>
   </div>
   
   <div id= "interests">
-  <h2> General Interests</h2>
+  <h3> General Interests</h3>
   <p> My interests and hobbied include; art, beauty, and fashion. I love all types of art ranging from painings, drawings, to photography and music. As a girl, I love experimenting with beauty, different hair styles and different accessories. Further, I love building up my wardrobe with all kinds of diverse fashion pieces. </p>
   </div>
   
   <div id= "favorites">
-  <h2> Favorites</h2>
+  <h3> Favorites</h3>
  
  <h3> Favorite Song: </h3>
  
@@ -63,7 +63,7 @@
   </div>   
   
   <div id= "website">
-  <h2> Favorite Websites</h2>
+  <h3> Favorite Websites</h3>
   
  <ol>
 <li>  <a href="https://www.netflix.com/browse"> Netflix</a></li> Netflix is a website that streams thousands of tv shows, movies, films, and even Netflix Original content.</li>
@@ -71,5 +71,5 @@
   </div>
 
 <div id= "proj">
-  <h2> Projects</h2>
+  <h3> Projects</h3>
 </html>
