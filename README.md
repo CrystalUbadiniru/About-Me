@@ -2,14 +2,14 @@
 <html>
 
 <head> Welcome! </head>
-<li> <a href="basic_info"> Basic Info </a></li> 
-<li> <a href="edu_cation"> Education </a></li>
-<li> <a href="work"> Work Experience </a></li> 
-<li> <a href="skills"> Programming Skills </a></li>
-<li> <a href="interests"> General Interests </a></li>
-<li> <a href="favorites"> Favorites </a></li>
-<li> <a href="website"> Favorite Wesbite </a></li>
-<li> <a href="proj"> Projects </a></li>
+<li> <a href="#basic_info"> Basic Info </a></li> 
+<li> <a href="#edu_cation"> Education </a></li>
+<li> <a href="#work"> Work Experience </a></li> 
+<li> <a href="#skills"> Programming Skills </a></li>
+<li> <a href="#interests"> General Interests </a></li>
+<li> <a href="#favorites"> Favorites </a></li>
+<li> <a href="#website"> Favorite Wesbite </a></li>
+<li> <a href="#proj"> Projects </a></li>
 
 
 
