@@ -1,6 +1,6 @@
 # milestone01
 <html>
 
-<body> Welcome! </body>
+<head> Welcome! </head>
 
 </html>
