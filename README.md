@@ -8,7 +8,7 @@
 <li> <a href="#skills"> Programming Skills </a></li>
 <li> <a href="#interests"> General Interests </a></li>
 <li> <a href="#favorites"> Favorites </a></li>
-<li> <a href="#website"> Favorite Wesbite </a></li>
+<li> <a href="#website"> Favorite Wesbites </a></li>
 <li> <a href="#proj"> Projects </a></li>
 
 
@@ -19,32 +19,37 @@
 
 <div id= "basic info">
   <h3> Basic Info</h3>
-  <p> Hi, my name is Crystal Ubadiniru. I am a sophomore at St.Johns University studying IT with a business track.</p>
+ <img src="https://brandingandbuzzing.com/wp-content/uploads/2018/11/Lisa-Bitmoji.png">
+ <p> Hi, my name is Crystal Ubadiniru. I am a sophomore at St.Johns University studying IT with a business track.</p>
   </div>
+   <hr>
   <div id= "Edu_cation">
   <h3> Education</h3>
  <p> I graduated with a summa cum laude diploma, from John F Kenney High School in Silver Spring Maryland. I now attend university, aiming to graduate early in 2022 with a Bachelors in Science.</p>
   </div>
+  <hr>
+
   <div id= "work">
   <h3> Work Experience</h3>
-    <ol> <li> Part Owner of a cosmetics company called Luxurious Beauty</li>
+    <ul> <li> Part Owner of a cosmetics company called Luxurious Beauty</li>
       <li> Part Owner of a marketing company called Ultimate Reach</li>
       <li> Desk Clerk for a sales group called Converged Network Services </li>
       
- </ol>
+ </ul>
      </div> 
+      <hr>
   <div id= "skills">
-  <h3> Programmng skills</h3>
-  <ol> <li> Java: I am moderately experienced with Javascript </li>
+  <h3> Programming skills</h3>
+  <ul> <li> Java: I am moderately experienced with Javascript </li>
     <li> HTML: I am moderarely experienced with HTML </li>
-  </ol>
+  </ul>
   </div>
-  
+   <hr>
   <div id= "interests">
   <h3> General Interests</h3>
   <p> My interests and hobbied include; art, beauty, and fashion. I love all types of art ranging from painings, drawings, to photography and music. As a girl, I love experimenting with beauty, different hair styles and different accessories. Further, I love building up my wardrobe with all kinds of diverse fashion pieces. </p>
   </div>
-  
+   <hr>
   <div id= "favorites">
   <h3> Favorites</h3>
  
@@ -52,23 +57,27 @@
  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Djf9es4rnXY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<h3> Favorite Movie </h3>
+<h3> Favorite Movie: </h3>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dcUOO4Itgmw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<h3>Favorite Show</h3>
+<h3>Favorite Show: </h3>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XkTP1QTRWDA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
   </div>   
-  
+   <hr>
   <div id= "website">
   <h3> Favorite Websites</h3>
   
- <ol>
+ <ul>
 <li>  <a href="https://www.netflix.com/browse" target="_blank"> Netflix</a></li> Netflix is a website that streams thousands of tv shows, movies, films, and even Netflix Original content.</li>
   <li>  <a href="https://www.hulu.com/hub/home" target="_blank"> Hulu </a></li>Hulu, in alike to Netflix, streams shows, movies and original content. However, Hulu does stream and release shows that are live on TV, whilst Netflix doesnt have that feature.</li>
+  
+  </ul>
   </div>
+  
+   <hr>
 
 <div id= "proj">
   <h3> Projects</h3>
