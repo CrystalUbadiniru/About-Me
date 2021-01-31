@@ -19,10 +19,11 @@
 
 <div id= "basic info">
   <h2> Basic Info</h2>
+  <p1> Hi, my name is Crystal Ubadiniru. I am a sophomore at St.Johns University studying IT with a business track.</p1>
   
   <div id= "Edu_cation">
   <h2> Education</h2>
-  
+ <p1> I graduated with a summa cum laude diploma, from John F Kenney High School in Silver Spring Maryland. I now attend university, aiming to graduate early in 2022 with a Bachelors in Science.</p1>
   <div id= "work">
   <h2> Work Experience</h2>
   
