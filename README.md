@@ -26,9 +26,17 @@
  <p1> I graduated with a summa cum laude diploma, from John F Kenney High School in Silver Spring Maryland. I now attend university, aiming to graduate early in 2022 with a Bachelors in Science.</p1>
   <div id= "work">
   <h2> Work Experience</h2>
-  
+    <ol> <li> Part Owner of a cosmetics company called Luxurious Beauty</li>
+      <li> Part Owner of a marketing company called Ultimate Reach</li>
+      <li> Desk Clerk for a sales group called Converged Network Services </li>
+      
+ </ol>
+      
   <div id= "skills">
   <h2> Programmng skills</h2>
+  <ol> <li> Java: I am moderately experienced with Javascript </li>
+    <li> HTML: I am moderarely experienced with HTML </li>
+  </ol>
   
   <div id= "interests">
   <h2> General Interests</h2>
