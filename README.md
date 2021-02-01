@@ -13,8 +13,7 @@
 
 
 
-
-
+<p>Add the <span class="ingredient">basil</span>, <span class="ingredient">pine nuts</span> and <span class="ingredient">garlic</span> to a blender and blend into a paste.</p> 
 
 
 <div id= "basic info">
