@@ -105,9 +105,10 @@
       <th> Name</th>
       <th> Info</th>
     </tr>
+    <tr>
     <td> <a href="https://crystalubadiniru.github.io/milestone/" target="_blank"> Milestone 01 </td>
     <td> This project was about creating a simple html page about ourselves. </td>
- 
+ <tr>
  </table>
  
 
