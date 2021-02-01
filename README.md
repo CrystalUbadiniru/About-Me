@@ -21,6 +21,24 @@
   <h3> Basic Info</h3>
  <img src="https://brandingandbuzzing.com/wp-content/uploads/2018/11/Lisa-Bitmoji.png">
  <p> Hi, my name is Crystal Ubadiniru. I am a sophomore at St.Johns University studying IT with a business track.</p>
+  <p> How about you?"
+    <form>  
+      <div>
+      <input type= "text" placeholder= "What's your name?" name="name_field">
+      </div>
+      <div>
+      <label for="year"> Year: </lable>
+      <input name="year" type="radio" value="Freshman"> Freshman
+      <input name="year" type="radio" value="Sophomore"> Sophomore
+      <input name="year" type="radio" value="Junior"> Junior
+      <input name="year" type="radio" value="Senior"> Senior
+      <input name="year" type="radio" value="na"> N/A
+      </div>
+  </form>
+
+
+
+
   </div>
    <hr>
   <div id= "Edu_cation">
