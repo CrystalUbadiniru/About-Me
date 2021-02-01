@@ -21,7 +21,8 @@
   <h3> Basic Info</h3>
  <img src="https://brandingandbuzzing.com/wp-content/uploads/2018/11/Lisa-Bitmoji.png">
  <p> Hi, my name is Crystal Ubadiniru. I am a sophomore at St.Johns University studying IT with a business track.</p>
-  <p> How about you?"
+  <p> How about you?</p>
+  <body>
     <form>  
       <div>
       <input type= "text" placeholder= "What's your name?" name="name_field">
@@ -36,7 +37,7 @@
       </div>
   </form>
 
-
+</body>
 
 
   </div>
