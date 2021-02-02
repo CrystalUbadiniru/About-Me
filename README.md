@@ -77,8 +77,8 @@
   <h3> Favorite Websites</h3>
   
  <ul>
-<li>  <a href="https://www.netflix.com/browse" target="_blank"> Netflix</a></li> Netflix is a website that streams thousands of tv shows, movies, films, and even Netflix Original content.</li>
-  <li>  <a href="https://www.hulu.com/hub/home" target="_blank"> Hulu </a></li>Hulu, in alike to Netflix, streams shows, movies and original content. However, Hulu does stream and release shows that are live on TV, whilst Netflix doesnt have that feature.</li>
+<li>  <a href="https://www.netflix.com/browse" target="_blank"> Netflix</a></li> Netflix is a website that streams thousands of tv shows, movies, films, and even Netflix Original content.
+  <li>  <a href="https://www.hulu.com/hub/home" target="_blank"> Hulu </a></li>Hulu, in alike to Netflix, streams shows, movies and original content. However, Hulu does stream and release shows that are live on TV, whilst Netflix doesnt have that feature.
   
   </ul>
   </div>
