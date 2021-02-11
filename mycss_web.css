@@ -16,8 +16,9 @@ body {
     margin-right: auto;
 }
 
-.menu{ 
+.me-nu { 
     text-align: center;
+    background-color: #9370db;
         
     }
 
@@ -26,12 +27,8 @@ body {
     }
     
     
-    #nav {
-    width: 290px;
-    float: middle;
-    padding: 10px;
-         background-color: #9370db;
-}
+   
+
     #avi { 
         display: block;
     margin:auto;
@@ -40,7 +37,7 @@ body {
     padding: 10px;
     }
 
-    #table{
+    #table {
         background-color: b39eb5;
     }
     
