@@ -17,6 +17,34 @@ body {
 }
 
 .menu{ 
-    text-align: center
+    text-align: center;
         
     }
+
+    a {
+        background-color: b19cd9;
+    }
+    
+    
+    #nav {
+    width: 290px;
+    float: middle;
+    padding: 10px;
+         background-color: #9370db;
+}
+    #avi{ 
+        text-align: center;
+    }
+
+    #table{
+        background-color: b39eb5;
+    }
+    
+    p{
+        font-family: Lato;
+    }
+   
+    #purpleback{
+        background-color: purple;
+    }
+            
