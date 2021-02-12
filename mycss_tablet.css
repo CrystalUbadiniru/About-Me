@@ -1,1 +1,49 @@
 
+@media only screen and (max-width: 901px){
+  body {
+    background-color: #b19cd9;
+  
+}
+
+#header {
+    background-color: #9370db;
+    text-align: center;
+    padding: 10px;
+    font-size: xx-large;
+    
+    #c {
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1260px;
+}
+
+
+
+    a {
+        background-color: #b19cd9;
+    }
+    
+    
+   
+
+    #avi { 
+        display: block;
+    margin:auto;
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+    }
+
+    #table {
+        background-color: b39eb5;
+    }
+    
+    p {
+        font-family: Lato;
+    }
+   
+    #purpleback{
+        background-color: purple;
+    }
+            
