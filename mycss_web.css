@@ -1,3 +1,4 @@
+@media only screen and (min-width: 700px) {  
 body {
     background-color: #b19cd9;
   
@@ -16,11 +17,7 @@ body {
     width: 1260px;
 }
 
-.me-nu { 
-    text-align: center;
-    background-color: #9370db;
-        
-    }
+
 
     a {
         background-color: #b19cd9;
