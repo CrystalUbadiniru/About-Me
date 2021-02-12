@@ -45,4 +45,10 @@ body {
     #purpleback{
         background-color: purple;
     }
+     @media print {
+        .screen-only {
+            display: none;
             
+         }
+    }
+    }
